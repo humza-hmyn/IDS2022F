@@ -1,2 +1,2 @@
 # IDS2022F
-GIT Repo for Fall semester 2022 Intro to Data Science (IDS) class. Taught by Dr. Shahmoradi. 
+GIT Repo for Fall semester 2022 Intro to Data Science (DATA 1301) class. Taught by Dr. Shahmoradi. 
