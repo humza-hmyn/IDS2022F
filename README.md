@@ -11,10 +11,10 @@ For questions and further information, please contact me at humza.humayun@mavs.u
 
 **BIO:** I am a DFW Based independent Data Scientist Student at the University of Texas at Arlington. <br />
 I am interested in:
-1.AI
-2.Bioinformatics
-3.Game development
-4.Data analysis. 
+1. AI
+2. Bioinformatics
+3. Game development
+4. Data analysis. 
 
 <br />
 > I survived because the fire inside burned brighter than the fire around me. <br />
