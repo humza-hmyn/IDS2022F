@@ -5,4 +5,4 @@ GIT Repo for Fall semester 2022 Intro to Data Science (DATA 1301) class. Taught 
 **DEPARTMENT:** Data Science<br />
 **University:** University of Texas at Arlington<br />
 **CLASS LINK:** https://www.cdslab.org/IDS2022F <br />
-![my photo]()
+![my photo](IMG_9438.JPG)
