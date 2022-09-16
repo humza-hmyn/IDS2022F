@@ -1,0 +1,4 @@
+Hello, my name is Humza Humayun. This is a test file to demo the Git functionability of Git Bash to this repository.
+The Quick Brown Fox Jumps Over The Lazy Dog.
+All Work And No Play Makes Jack A Dull Boy.
+
