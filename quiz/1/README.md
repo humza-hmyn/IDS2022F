@@ -34,25 +34,25 @@ contains the addresses to all repositories and remotes, as well as commit histor
 12. A Version COntrol System (VCS) is a series of systems (be they harware and/or software) that are set to track, store, and provide changes 
 in computer files and programs.
 
-13. Four Modern Scientific Tools that Grew Exponentially Fast in the Last Decade:
-	i. Perl 
-	ii. Python
-	iii. Bioinformatice
-	iv. Data Analysis
+13. Four Modern Scientific Tools that Grew Exponentially Fast in the Last Decade: <br />
+	i. Perl  <br />
+	ii. Python <br />
+	iii. Bioinformatics <br />
+	iv. Data Analysis <br />
 
-14. Six benefits of Using a Distributed VCS:
-	i. Every member of project has their own copy of the project
-	ii. If anything were to happen to the main server, every node/user has a backup of the original project
-	iii.Users can work without an internet connection as they have a local copy of the original project
-	iv: DVCS allow easier merging into repositories as well as a significantly less likely hood for branch merge conflicts
-	v: Technically speaking, each clone of the main repository is a backup of it
-	vi: DVCS's are also helpful in the fact they provide a way to organize work in a **distributed** manner - where teams can review and 
-	check code that is meant to be committed to the main repository. 
+14. Six benefits of Using a Distributed VCS: <br />
+	i. Every member of project has their own copy of the project <br />
+	ii. If anything were to happen to the main server, every node/user has a backup of the original project <br />
+	iii.Users can work without an internet connection as they have a local copy of the original project <br />
+	iv: DVCS allow easier merging into repositories as well as a significantly less likely hood for branch merge conflicts <br />
+	v: Technically speaking, each clone of the main repository is a backup of it <br />
+	vi: DVCS's are also helpful in the fact they provide a way to organize work in a **distributed** manner - where teams can review and  <br />
+	check code that is meant to be committed to the main repository.  <br />
 
-15. 3 Historical Versions of VCS's
-	i. Local VCS
-	ii. Centralized VCS
-	ii. Distributed VCS
+15. 3 Historical Versions of VCS's <br />
+	i. Local VCS <br />
+	ii. Centralized VCS <br />
+	ii. Distributed VCS <br />
 
 16. Git is the software that is used to access a repositor whereas Githb is the actual repository that stores data. Git is the server client
 and GitHub is the host.
@@ -64,16 +64,16 @@ the current working directory are pushed on to the server.
 
 19. 'git pull' retrieves the current remote version of the project and downloads it into your local repository.
 
-20.Three major pillars of Science:
-	i. Experiment
-	ii. Theory
-	iii. Computation/Data
+20.Three major pillars of Science: <br />
+	i. Experiment <br />
+	ii. Theory <br />
+	iii. Computation/Data <br />
 
 
-21. Three Major Applications of Computational + Data Sciences:
-	i. Predictive computing
-	ii. Numerical simulation
-	iii. Machine-learning (Data driven models)
+21. Three Major Applications of Computational + Data Sciences: <br />
+	i. Predictive computing <br />
+	ii. Numerical simulation <br />
+	iii. Machine-learning (Data driven models) <br />
 
 22. Markdown is a type of formatting syntax made for plain text documents. Markdown is almost universal, it 
 has various commands to help with semantics and emphasis, and simplifies formatting.
@@ -90,12 +90,13 @@ has various commands to help with semantics and emphasis, and simplifies formatt
 
 28. The first digital computer was made in the United States, it was named ENIAC.
 
-29. Three major components of Data Science:
-	i. Coding  
-	ii. Statistics 
-	iii. Domain
+29. Three major components of Data Science: <br />
+	i. Coding   <br />
+	ii. Statistics  <br />
+	iii. Domain <br />
 
-30. A Data Scientist is a person who has the interdisciplinary knowlege of coding, mathematics/statistics, and a specialty domain (background)
+30. A Data Scientist is a person who has the interdisciplinary knowlege of coding, mathematics/statistics, and a specialty domain (background) and uses these <br />
+	competencies to work with data  
 
  	
 
