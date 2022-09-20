@@ -22,15 +22,15 @@ contains the addresses to all repositories and remotes, as well as commit histor
 
 9. The BASH command 'pwd' allows the user to see their current place inside of a file system; mainly, the full name of the current working directory.
 
-10. Three Fast-Growing Fields w/ Respect to Data Science:
-	i. Bioinformatics
-	ii. Financial Quantative Analyst
-	iii. Data Scientist 
+10. Three Fast-Growing Fields w/ Respect to Data Science:br />
+	i. Bioinformaticsbr />
+	ii. Financial Quantative Analystbr />
+	iii. Data Scientist br />
 
-11. Different Areas of a Git Project:
-	i. Working Area
-	ii. Staging Area
-	iii. git Directory (The Repository)
+11. Different Areas of a Git Project:br />
+	i. Working Areabr />
+	ii. Staging Areabr />
+	iii. git Directory (The Repository)br />
 12. A Version COntrol System (VCS) is a series of systems (be they harware and/or software) that are set to track, store, and provide changes 
 in computer files and programs.
 
