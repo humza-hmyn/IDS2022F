@@ -55,4 +55,4 @@
 
 17. Extra credit: How would you distinguish exponential behavior vs. power-law behavior (function) in a 2-dimensional plot?
 Hint: Recall our discussion of the ENAIC project and the relative frequency of keywords such as “computer” in our programming.
-	
+	Exponential behavior has interesting tendancies towards its endpoints 
